@@ -1,2 +1,2 @@
 # test-m
-Test app with X11
+Test app ( X11 interface ) with UART exchange
